@@ -1,5 +1,5 @@
 {
-	"dimension": 768,
+	"dimension": null,
 	"extended": false,
 	"metric": "cosine"
 }
